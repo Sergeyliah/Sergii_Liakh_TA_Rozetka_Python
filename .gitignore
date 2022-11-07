@@ -1,0 +1,39 @@
+# Byte-compiled
+__pycache__/
+
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+
+# Dependency files
+pip-lock.txt
+requirements.txt
+
+# Environment-specific files
+.env
+
+# Logs and temporary files
+*.log
+*.swp
+*.swo
+*.tmp
+
+# Sensitive or personal information (such as credentials)
+secrets.txt
